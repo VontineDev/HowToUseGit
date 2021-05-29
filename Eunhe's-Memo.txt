@@ -1,3 +1,0 @@
-void Hello(){
-Console.Write("HelloWorld");
-}
