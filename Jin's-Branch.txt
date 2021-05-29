@@ -1,3 +1,7 @@
 void Hello(){
 Console.Write("Hello");
 }
+
+void Hello2(){
+Console.Write("Hello");
+}
